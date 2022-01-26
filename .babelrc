@@ -1,7 +1,6 @@
-//this file provides the env and react presets for our babel
 {
     "presets": [
-        "env", 
+        "env",
         "react"
     ]
 }
